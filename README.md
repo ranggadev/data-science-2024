@@ -1,5 +1,7 @@
 Nama : Rangga Saputra
+
 NIM : 250401020034
+
 Kelas : IF405
 
 ----------
